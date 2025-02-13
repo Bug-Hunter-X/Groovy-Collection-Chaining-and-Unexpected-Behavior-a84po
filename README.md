@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but common error in Groovy when chaining collection operations like `findAll` and `collect`. The example shows how creating intermediate lists can lead to unexpected results if you intend to modify the original collection.  The solution shows how to use a single operation to achieve the desired outcome.
